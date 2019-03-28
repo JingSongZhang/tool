@@ -1,0 +1,27 @@
+{
+  "name": "tool",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "scripts": {
+    "build": "webpack --config=config/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JingSongZhang/tool.git"
+  },
+  "keywords": [
+    "Jason"
+  ],
+  "author": "zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JingSongZhang/tool/issues"
+  },
+  "homepage": "https://github.com/JingSongZhang/tool#readme"
+}
